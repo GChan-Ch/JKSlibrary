@@ -1,3 +1,3 @@
-def worls() {
+def world() {
     echo "hello world"
 } 
